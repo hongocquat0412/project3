@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: ConfigMap
+data:
+  AWS_BUCKET: test-534368502400-dev
+  AWS_PROFILE: quathn1
+  AWS_REGION: us-east-1
+  JWT_SECRET: helloword
+  POSTGRES_DB: postgres
+  POSTGRES_HOST: project3udacity.cxxvqukoetze.us-east-1.rds.amazonaws.com
+  URL: http://localhost:8100  
+metadata:
+  name: env-config
+
+  
