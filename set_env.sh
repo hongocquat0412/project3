@@ -1,0 +1,10 @@
+setx POSTGRES_USERNAME project3udacity
+setx POSTGRES_PASSWORD nga28032000
+setx POSTGRES_HOST project3udacity.cxxvqukoetze.us-east-1.rds.amazonaws.com
+setx POSTGRES_DB postgres
+setx AWS_BUCKET test-534368502400-dev
+setx AWS_REGION us-east-1
+setx AWS_PROFILE quathn1
+setx JWT_SECRET hello
+setx URL http://localhost:8100
+setx HOME C:/Users/Admin
